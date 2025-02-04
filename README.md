@@ -21,3 +21,4 @@ Ce projet est une page d’hommage de **Manu Dibango** construite dans le cadre 
 1. **Clone le dépôt**  
    ```bash
    git clone https://github.com/Lil-Code30/page-d-hommage.git
+2. Ouvre ```index.html``` dans un navigateur pour voir la page.
