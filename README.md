@@ -3,7 +3,7 @@
 Ce projet est une page d’hommage de **Manu Dibango** construite dans le cadre du **certificat en design web responsive** de FreeCodeCamp. L'objectif est de créer une page informative et élégante mettant en avant une personnalité inspirante.
 
 ## 🚀 Démo en ligne
-🔗 [Lien vers la démo](AJOUTER_LIEN_ICI)
+🔗 [Lien vers la démo](https://lil-code30.github.io/page-d-hommage/)
 
 ## 🛠️ Technologies utilisées
 - **HTML5** – Structure de la page
