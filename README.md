@@ -15,7 +15,10 @@ Ce projet est une page d’hommage de **Manu Dibango** construite dans le cadre 
 ✅ Section biographique détaillée  
 
 ## 📸 Aperçu du projet
-*(Ajoute ici une capture d'écran du projet.)*
+<div align="center">
+  <img src="Output.png" alt="Aperçu du projet" width="80%">
+  <p><em> Aperçu du projet</em></p>
+</div>
 
 ## 📥 Installation et Utilisation
 1. **Clone le dépôt**  
